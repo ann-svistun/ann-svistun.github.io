@@ -1,15 +1,15 @@
 ## Welcome to my page!
 
 # About me
- Hello!  My name is Ann Svistun.  At school I really loved computer science lessons, programming in particular.  Now I am a student of the Belarusian State University of Informatics and Radioelectronics.  I study at the faculty of information technology and control, specialty automated information processing systems.
+ Hello!  My name is Ann Svistun.  At school I really loved computer science lessons, programming in particular. One of my main achievements is a first degree diploma at the third stage of the Republican Olympiad in Informatics. Now I am a student of the Belarusian State University of Informatics and Radioelectronics.  I study at the faculty of information technology and control, specialty automated information processing systems.
 
-# Features
+## Features
  - I like to solve problems.  
- - I have creative thinking, good analytical skills, high performance.  
- - I am a good team player.
- - I am ready to work hard and hard to learn what I don’t know yet.  
+ - I've creative thinking, good analytical skills, high performance.  
+ - I'm a good team player.
+ - I'm ready to work hard and hard to learn what I don’t know yet.  
  - Always achieve your goals.
- - I do not smoke, lead a healthy lifestyle.
+ - I dont smoke, lead a healthy lifestyle.
  
  ## Personal qualities
  - responsibility
