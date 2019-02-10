@@ -11,7 +11,7 @@
  - Always achieve your goals.
  - I dont smoke, lead a healthy lifestyle.
  
- ## Personal qualities
+# Personal qualities
  - responsibility
  - independence
  - perseverance
@@ -20,7 +20,7 @@
  - fairness
  - honesty
  
- # Interests
+# Interests
  - I like music, singing and dancing
  - I'm fond of puzzles
  - I do like cooking
