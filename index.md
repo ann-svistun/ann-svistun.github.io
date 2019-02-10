@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/ann-svistun/ann-svistun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About me
+ Hello!  My name is Ann Svistun.  At school I really loved computer science lessons, programming in particular.  Now I am a student of the Belarusian State University of Informatics and Radioelectronics.  I study at the faculty of information technology and control, specialty automated information processing systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ann-svistun/ann-svistun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Features
+ - I like to solve problems.  
+ - I have creative thinking, good analytical skills, high performance.  
+ - I am a good team player.
+ - I am ready to work hard and hard to learn what I don’t know yet.  
+ - Always achieve your goals.
+ - I do not smoke, lead a healthy lifestyle.
+ 
+ ## Personal qualities
+ - responsibility
+ - independence
+ - perseverance
+ - attentiveness
+ - education
+ - fairness
+ - honesty
+ 
+ # Interests
+ - I like music, singing and dancing
+ - I'm fond of puzzles
+ - I do like cooking
+ 
+ [My GitHub profile](https://github.com/ann-svistun)
