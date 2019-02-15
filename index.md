@@ -26,6 +26,6 @@
  - I do like cooking
  
  [My GitHub profile](https://github.com/ann-svistun)
- [PadawansTask1] (https://github.com/ann-svistun/PadawansTask1)
- [PadawansTask2] (https://github.com/ann-svistun/PadawansTask2)
- [PadawansTask3] (https://github.com/ann-svistun/PadawansTask3)
+ [PadawansTask1](https://github.com/ann-svistun/PadawansTask1)
+ [PadawansTask2](https://github.com/ann-svistun/PadawansTask2)
+ [PadawansTask3](https://github.com/ann-svistun/PadawansTask3)
